@@ -33,3 +33,5 @@ F:\Career\c#\MinimalApi\DemoApp\obj\Debug\net7.0\DemoApp.genruntimeconfig.cache
 F:\Career\c#\MinimalApi\DemoApp\obj\Debug\net7.0\ref\DemoApp.dll
 F:\Career\c#\MinimalApi\DemoApp\bin\Debug\net7.0\AutoMapper.dll
 F:\Career\c#\MinimalApi\DemoApp\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Career\c#\MinimalApi\DemoApp\bin\Debug\net7.0\FluentValidation.dll
+F:\Career\c#\MinimalApi\DemoApp\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
